@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ce69736a-477e-49c2-ad8e-0bbf9f034380" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/11.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -64,8 +63,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="105" />
-    <option name="y" value="133" />
+    <option name="x" value="481" />
+    <option name="y" value="108" />
     <option name="width" value="922" />
     <option name="height" value="686" />
   </component>
@@ -195,6 +194,9 @@
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="ce69736a-477e-49c2-ad8e-0bbf9f034380" name="Default" comment="" />
@@ -202,7 +204,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1487792244715</updated>
-      <workItem from="1487882075841" duration="142000" />
+      <workItem from="1487882075841" duration="757000" />
     </task>
     <task id="LOCAL-00001" summary="删除">
       <created>1487882104998</created>
@@ -211,14 +213,21 @@
       <option name="project" value="LOCAL" />
       <updated>1487882104998</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="增加&#10;">
+      <created>1487882234382</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1487882234382</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="617000" />
+    <option name="totallyTimeSpent" value="1232000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="105" y="133" width="922" height="686" extended-state="0" />
+    <frame x="481" y="108" width="922" height="686" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15428571" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -265,7 +274,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="删除" />
-    <option name="LAST_COMMIT_MESSAGE" value="删除" />
+    <MESSAGE value="增加&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="增加&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
