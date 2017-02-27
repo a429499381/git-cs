@@ -1,0 +1,25 @@
+
+jade 模版 时时编 译
+C:\Users\Administrator\AppData\Roaming\npm\jade.cmd
+-P $FileName$
+$FileNameWithoutExtension$.html
+
+
+coffeescript 模版 时时编译
+C:\Users\Administrator\AppData\Roaming\npm\coffee.cmd
+-c $FileName$
+$FileNameWithoutExtension$.js:$FileNameWithoutExtension$.map:$FileNameWithoutExtension$.js.map
+
+
+
+Webstrom sass scss编译配置
+ 安装命令
+gem install sass
+
+C:\Ruby22\bin\sass.bat
+--no-cache --update $FileName$:$FileNameWithoutExtension$.css
+$FileNameWithoutExtension$.css:$FileNameWithoutExtension$.css.map
+
+C:\Ruby22\bin\scss.bat
+--no-cache --update $FileName$:$FileNameWithoutExtension$.css
+$FileNameWithoutExtension$.css:$FileNameWithoutExtension$.css.map
