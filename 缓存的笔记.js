@@ -32,3 +32,17 @@ localStorage.removeItem("csdn"); //删除一个键值对  sessionStorage同上
 
 
 
+//离线缓存方法
+
+// HTML5 头部要加入，在根木建立一个 manifest.appcache
+<html lang="en" manifest = 'manifest.appcache'>
+
+
+浏览器检查是否更新 是根据  manfest.appcahe 的版本更变
+
+
+//WEB SQL 方法
+openDatabase: 使用现有数据库或新建
+transaction: 事物提交或回滚
+executeSql: 执行真实的SQL查询
+

@@ -1,0 +1,15 @@
+CACHE MANIFEST
+#version n.n
+
+CACHE
+#需要缓存的文件
+/css/sample.css
+/images/image.jpg
+
+NETWORK
+#每次重新拉取的文件
+*
+
+FALLBACK:
+# 离线状况下代替的文件
+ /offline.html
