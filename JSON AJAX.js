@@ -36,7 +36,7 @@ function loadXMLDoc(url,cfunc)
   {// code for IE6, IE5
     xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
   }
-  // 响应AJAX 改变
+  // 响应AJAX 改变  要执行动作
   xmlhttp.onreadystatechange=cfunc;
   // 请求 向服务器 获取内容， URL 就是请求地址
   xmlhttp.open("GET",url,true);
@@ -47,6 +47,7 @@ function loadXMLDoc(url,cfunc)
 // 调用 AJAX 函数
 function myFunction()
 {
+  // 执行请求 传入 url  回调函数
   loadXMLDoc("/ajax/test1.txt",function()
   {
     // 响应成功 ，开始执行下一步
