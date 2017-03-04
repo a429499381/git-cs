@@ -46,3 +46,4 @@ openDatabase: 使用现有数据库或新建
 transaction: 事物提交或回滚
 executeSql: 执行真实的SQL查询
 
+
