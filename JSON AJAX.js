@@ -23,3 +23,37 @@ JSON.stringify(a)
 
 
 //        AJAX
+
+var xmlhttp;
+//定义ajax 函数  方便多次条用
+function loadXMLDoc(url,cfunc)
+{
+  if (window.XMLHttpRequest)
+  {// code for IE7+, Firefox, Chrome, Opera, Safari
+    xmlhttp=new XMLHttpRequest();
+  }
+  else
+  {// code for IE6, IE5
+    xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
+  }
+  // 响应AJAX 改变
+  xmlhttp.onreadystatechange=cfunc;
+  // 请求 向服务器 获取内容， URL 就是请求地址
+  xmlhttp.open("GET",url,true);
+  //发送请求
+  xmlhttp.send();
+}
+
+// 调用 AJAX 函数
+function myFunction()
+{
+  loadXMLDoc("/ajax/test1.txt",function()
+  {
+    // 响应成功 ，开始执行下一步
+    if (xmlhttp.readyState==4 && xmlhttp.status==200)
+    {
+      // ajax 获取信息写入 mydiv 中
+      document.getElementById("myDiv").innerHTML=xmlhttp.responseText;
+    }
+  });
+}
