@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ce69736a-477e-49c2-ad8e-0bbf9f034380" name="Default" comment="&#10; 更新了 ajax 响应请求">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/调试技巧.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JSON AJAX.js" afterPath="$PROJECT_DIR$/JSON AJAX.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -28,10 +28,32 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="收藏夹.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="JSON AJAX.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JSON AJAX.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="192">
+              <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#48#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="event.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/event.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="960">
+              <caret line="40" column="41" lean-forward="false" selection-start-line="40" selection-start-column="41" selection-end-line="40" selection-end-column="41" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="收藏夹.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/收藏夹.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="421">
+            <state relative-caret-position="3624">
               <caret line="151" column="41" lean-forward="false" selection-start-line="151" selection-start-column="41" selection-end-line="151" selection-end-column="41" />
               <folding>
                 <element signature="e#19725#19730#0" expanded="true" />
@@ -52,11 +74,21 @@
       <file leaf-file-name="缓存的笔记.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/缓存的笔记.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="684">
-              <caret line="48" column="0" lean-forward="false" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
+            <state relative-caret-position="744">
+              <caret line="33" column="0" lean-forward="true" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
               <folding>
                 <element signature="e#0#48#0" expanded="false" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="调试技巧.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/调试技巧.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="5" column="53" lean-forward="true" selection-start-line="5" selection-start-column="53" selection-end-line="5" selection-end-column="53" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -65,20 +97,8 @@
         <entry file="file://$PROJECT_DIR$/maifest.appcache">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
-              <caret line="5" column="15" lean-forward="true" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
+              <caret line="5" column="15" lean-forward="false" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="JSON AJAX.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JSON AJAX.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="660">
-              <caret line="57" column="5" lean-forward="true" selection-start-line="57" selection-start-column="5" selection-end-line="57" selection-end-column="5" />
-              <folding>
-                <element signature="e#0#48#0" expanded="false" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -86,8 +106,8 @@
       <file leaf-file-name="win7 快捷键.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/win7 快捷键.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="15" column="21" lean-forward="true" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+            <state relative-caret-position="360">
+              <caret line="15" column="21" lean-forward="false" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -108,10 +128,15 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>向服务器</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="UPDATE_TYPE" value="MERGE" />
@@ -135,6 +160,7 @@
         <option value="$PROJECT_DIR$/win7 快捷键.html" />
         <option value="$PROJECT_DIR$/缓存的笔记.js" />
         <option value="$PROJECT_DIR$/JSON AJAX.js" />
+        <option value="$PROJECT_DIR$/调试技巧.html" />
       </list>
     </option>
   </component>
@@ -168,6 +194,20 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="git-cs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="git-cs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
       <pane id="Scope">
         <subPane subId="Changed Files">
           <PATH>
@@ -190,20 +230,6 @@
             <PATH_ELEMENT USER_OBJECT="git-cs">
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
-      <pane id="ProjectPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="git-cs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="git-cs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -309,6 +335,9 @@
       <workItem from="1488435734717" duration="677000" />
       <workItem from="1488527588229" duration="3585000" />
       <workItem from="1488617721845" duration="2542000" />
+      <workItem from="1488636726697" duration="873000" />
+      <workItem from="1488640864714" duration="51000" />
+      <workItem from="1488657229063" duration="1116000" />
     </task>
     <task id="LOCAL-00001" summary="删除">
       <created>1487882104998</created>
@@ -370,13 +399,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19638000" />
+    <option name="totallyTimeSpent" value="21678000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.37903652" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21016411" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3256617" sideWeight="0.5188571" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32796317" sideWeight="0.48899928" order="7" side_tool="false" content_ui="tabs" />
@@ -434,6 +463,108 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/maifest.appcache">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="15" lean-forward="false" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/win7 快捷键.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="15" column="21" lean-forward="false" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webstrom 模版转换配置参数">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JSON AJAX.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#48#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/indexDB方法.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/收藏夹.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#19725#19730#0" expanded="true" />
+            <element signature="e#70198#70203#0" expanded="true" />
+            <element signature="e#114940#114945#0" expanded="true" />
+            <element signature="e#118716#118721#0" expanded="true" />
+            <element signature="e#118734#118739#0" expanded="true" />
+            <element signature="e#187954#187960#0" expanded="true" />
+            <element signature="e#187996#188002#0" expanded="true" />
+            <element signature="e#239208#239213#0" expanded="true" />
+            <element signature="e#265033#265038#0" expanded="true" />
+            <element signature="e#348859#348864#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/缓存的笔记.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1104">
+          <caret line="48" column="0" lean-forward="false" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#48#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/maifest.appcache">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="15" lean-forward="true" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JSON AJAX.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1320">
+          <caret line="57" column="5" lean-forward="true" selection-start-line="57" selection-start-column="5" selection-end-line="57" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#48#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/win7 快捷键.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="15" column="21" lean-forward="true" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webstrom 模版转换配置参数">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/缓存的笔记.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="624">
@@ -586,66 +717,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/event.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/maifest.appcache">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="5" column="15" lean-forward="true" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/缓存的笔记.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="684">
-          <caret line="48" column="0" lean-forward="false" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#48#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JSON AJAX.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="660">
-          <caret line="57" column="5" lean-forward="true" selection-start-line="57" selection-start-column="5" selection-end-line="57" selection-end-column="5" />
-          <folding>
-            <element signature="e#0#48#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/win7 快捷键.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="15" column="21" lean-forward="true" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webstrom 模版转换配置参数">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/indexDB方法.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/收藏夹.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="421">
+        <state relative-caret-position="3624">
           <caret line="151" column="41" lean-forward="false" selection-start-line="151" selection-start-column="41" selection-end-line="151" selection-end-column="41" />
           <folding>
             <element signature="e#19725#19730#0" expanded="true" />
@@ -659,6 +733,71 @@
             <element signature="e#265033#265038#0" expanded="true" />
             <element signature="e#348859#348864#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/win7 快捷键.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="15" column="21" lean-forward="false" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webstrom 模版转换配置参数">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/maifest.appcache">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="15" lean-forward="false" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/event.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="960">
+          <caret line="40" column="41" lean-forward="false" selection-start-line="40" selection-start-column="41" selection-end-line="40" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/indexDB方法.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JSON AJAX.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#48#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/缓存的笔记.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="744">
+          <caret line="33" column="0" lean-forward="true" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#48#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/调试技巧.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="53" lean-forward="true" selection-start-line="5" selection-start-column="53" selection-end-line="5" selection-end-column="53" />
+          <folding />
         </state>
       </provider>
     </entry>
