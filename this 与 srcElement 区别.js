@@ -2,6 +2,10 @@
  * Created by Administrator on 2017/3/5.
  */
 
+跟随标准与Webkit源码探究DOM -- 获取元素之getElementById
+http://www.cnblogs.com/joyeecheung/p/4115406.html
+
+
 
 this和window.event.srcElement的使用区别是：
 
