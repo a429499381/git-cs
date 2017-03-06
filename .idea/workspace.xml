@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ce69736a-477e-49c2-ad8e-0bbf9f034380" name="Default" comment="&#10; 更新了 ajax 响应请求">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/调试技巧.html" />
+    <list default="true" id="ce69736a-477e-49c2-ad8e-0bbf9f034380" name="Default" comment="&#10;   跟随标准与Webkit源码探究DOM -- 获取元素之getElementById">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/this 与 srcElement 区别.js" afterPath="$PROJECT_DIR$/this 与 srcElement 区别.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/收藏夹.html" afterPath="$PROJECT_DIR$/收藏夹.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -21,31 +22,14 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="indexDB方法.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/indexDB方法.jpg">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="JSON AJAX.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JSON AJAX.js">
+      <file leaf-file-name="this 与 srcElement 区别.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/this 与 srcElement 区别.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+            <state relative-caret-position="480">
+              <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
               <folding>
                 <element signature="e#0#48#0" expanded="false" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="event.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/event.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="960">
-              <caret line="40" column="41" lean-forward="false" selection-start-line="40" selection-start-column="41" selection-end-line="40" selection-end-column="41" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -53,71 +37,8 @@
       <file leaf-file-name="收藏夹.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/收藏夹.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3624">
-              <caret line="151" column="41" lean-forward="false" selection-start-line="151" selection-start-column="41" selection-end-line="151" selection-end-column="41" />
-              <folding>
-                <element signature="e#19725#19730#0" expanded="true" />
-                <element signature="e#70198#70203#0" expanded="true" />
-                <element signature="e#114940#114945#0" expanded="true" />
-                <element signature="e#118716#118721#0" expanded="true" />
-                <element signature="e#118734#118739#0" expanded="true" />
-                <element signature="e#187954#187960#0" expanded="true" />
-                <element signature="e#187996#188002#0" expanded="true" />
-                <element signature="e#239208#239213#0" expanded="true" />
-                <element signature="e#265033#265038#0" expanded="true" />
-                <element signature="e#348859#348864#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="缓存的笔记.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/缓存的笔记.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="744">
-              <caret line="33" column="0" lean-forward="true" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#48#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="调试技巧.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/调试技巧.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="5" column="53" lean-forward="true" selection-start-line="5" selection-start-column="53" selection-end-line="5" selection-end-column="53" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="maifest.appcache" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/maifest.appcache">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="5" column="15" lean-forward="false" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="win7 快捷键.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/win7 快捷键.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="15" column="21" lean-forward="false" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="webstrom 模版转换配置参数" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/webstrom 模版转换配置参数">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="96">
+              <caret line="154" column="19" lean-forward="true" selection-start-line="154" selection-start-column="19" selection-end-line="154" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -128,8 +49,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -155,12 +76,13 @@
       <list>
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/11.js" />
-        <option value="$PROJECT_DIR$/收藏夹.html" />
         <option value="$USER_HOME$/AppData/Local/Temp/步骤阅读.url" />
         <option value="$PROJECT_DIR$/win7 快捷键.html" />
         <option value="$PROJECT_DIR$/缓存的笔记.js" />
         <option value="$PROJECT_DIR$/JSON AJAX.js" />
         <option value="$PROJECT_DIR$/调试技巧.html" />
+        <option value="$PROJECT_DIR$/收藏夹.html" />
+        <option value="$PROJECT_DIR$/this 与 srcElement 区别.js" />
       </list>
     </option>
   </component>
@@ -171,10 +93,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+    <option name="x" value="183" />
+    <option name="y" value="198" />
+    <option name="width" value="1932" />
+    <option name="height" value="1053" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="添加" />
@@ -338,6 +260,13 @@
       <workItem from="1488636726697" duration="873000" />
       <workItem from="1488640864714" duration="51000" />
       <workItem from="1488657229063" duration="1116000" />
+      <workItem from="1488678973261" duration="216000" />
+      <workItem from="1488682798153" duration="107000" />
+      <workItem from="1488700383222" duration="418000" />
+      <workItem from="1488711053769" duration="581000" />
+      <workItem from="1488765132770" duration="60000" />
+      <workItem from="1488768931178" duration="111000" />
+      <workItem from="1488785592806" duration="451000" />
     </task>
     <task id="LOCAL-00001" summary="删除">
       <created>1487882104998</created>
@@ -395,22 +324,36 @@
       <option name="project" value="LOCAL" />
       <updated>1488628284283</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="&#10;   this  与 srcElement 区别">
+      <created>1488711148504</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1488711148504</updated>
+    </task>
+    <task id="LOCAL-00010" summary="&#10;   跟随标准与Webkit源码探究DOM -- 获取元素之getElementById">
+      <created>1488768994201</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1488768994201</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21678000" />
+    <option name="totallyTimeSpent" value="23622000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="183" y="198" width="1932" height="1053" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21016411" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23345685" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3256617" sideWeight="0.5188571" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32796317" sideWeight="0.48899928" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3276644" sideWeight="0.48899928" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24982257" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6644068" sideWeight="0.48114285" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6643991" sideWeight="0.48114285" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -449,6 +392,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="false" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="删除" />
     <MESSAGE value="增加&#10;" />
     <MESSAGE value="上传webstorm 常用配置文件" />
@@ -456,26 +401,19 @@
     <MESSAGE value="&#10;更新收藏夹" />
     <MESSAGE value="&#10; 更新了 JSON 用法" />
     <MESSAGE value="&#10; 更新了 ajax 响应请求" />
-    <option name="LAST_COMMIT_MESSAGE" value="&#10; 更新了 ajax 响应请求" />
+    <MESSAGE value="&#10;   this  与 srcElement 区别" />
+    <MESSAGE value="&#10;   跟随标准与Webkit源码探究DOM -- 获取元素之getElementById" />
+    <option name="LAST_COMMIT_MESSAGE" value="&#10;   跟随标准与Webkit源码探究DOM -- 获取元素之getElementById" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/maifest.appcache">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="5" column="15" lean-forward="false" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/win7 快捷键.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="15" column="21" lean-forward="false" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -483,7 +421,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -491,9 +428,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#48#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -506,18 +440,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#19725#19730#0" expanded="true" />
-            <element signature="e#70198#70203#0" expanded="true" />
-            <element signature="e#114940#114945#0" expanded="true" />
-            <element signature="e#118716#118721#0" expanded="true" />
-            <element signature="e#118734#118739#0" expanded="true" />
-            <element signature="e#187954#187960#0" expanded="true" />
-            <element signature="e#187996#188002#0" expanded="true" />
-            <element signature="e#239208#239213#0" expanded="true" />
-            <element signature="e#265033#265038#0" expanded="true" />
-            <element signature="e#348859#348864#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -525,9 +447,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1104">
           <caret line="48" column="0" lean-forward="false" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#48#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -535,7 +454,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="5" column="15" lean-forward="true" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -543,9 +461,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1320">
           <caret line="57" column="5" lean-forward="true" selection-start-line="57" selection-start-column="5" selection-end-line="57" selection-end-column="5" />
-          <folding>
-            <element signature="e#0#48#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -553,7 +468,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="15" column="21" lean-forward="true" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -561,7 +475,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -569,9 +482,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="624">
           <caret line="28" column="30" lean-forward="false" selection-start-line="28" selection-start-column="30" selection-end-line="28" selection-end-column="30" />
-          <folding>
-            <element signature="e#0#48#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -584,18 +494,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#19725#19730#0" expanded="true" />
-            <element signature="e#70198#70203#0" expanded="true" />
-            <element signature="e#114940#114945#0" expanded="true" />
-            <element signature="e#118716#118721#0" expanded="true" />
-            <element signature="e#118734#118739#0" expanded="true" />
-            <element signature="e#187954#187960#0" expanded="true" />
-            <element signature="e#187996#188002#0" expanded="true" />
-            <element signature="e#239208#239213#0" expanded="true" />
-            <element signature="e#265033#265038#0" expanded="true" />
-            <element signature="e#348859#348864#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -638,18 +536,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="456">
           <caret line="19" column="23" lean-forward="true" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
-          <folding>
-            <element signature="e#19725#19730#0" expanded="true" />
-            <element signature="e#70198#70203#0" expanded="true" />
-            <element signature="e#114940#114945#0" expanded="true" />
-            <element signature="e#118716#118721#0" expanded="true" />
-            <element signature="e#118734#118739#0" expanded="true" />
-            <element signature="e#187954#187960#0" expanded="true" />
-            <element signature="e#187996#188002#0" expanded="true" />
-            <element signature="e#239208#239213#0" expanded="true" />
-            <element signature="e#265033#265038#0" expanded="true" />
-            <element signature="e#348859#348864#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -678,18 +564,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#19725#19730#0" expanded="true" />
-            <element signature="e#70198#70203#0" expanded="true" />
-            <element signature="e#114940#114945#0" expanded="true" />
-            <element signature="e#118716#118721#0" expanded="true" />
-            <element signature="e#118734#118739#0" expanded="true" />
-            <element signature="e#187954#187960#0" expanded="true" />
-            <element signature="e#187996#188002#0" expanded="true" />
-            <element signature="e#239208#239213#0" expanded="true" />
-            <element signature="e#265033#265038#0" expanded="true" />
-            <element signature="e#348859#348864#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -717,30 +591,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/收藏夹.html">
+    <entry file="file://$PROJECT_DIR$/maifest.appcache">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3624">
-          <caret line="151" column="41" lean-forward="false" selection-start-line="151" selection-start-column="41" selection-end-line="151" selection-end-column="41" />
-          <folding>
-            <element signature="e#19725#19730#0" expanded="true" />
-            <element signature="e#70198#70203#0" expanded="true" />
-            <element signature="e#114940#114945#0" expanded="true" />
-            <element signature="e#118716#118721#0" expanded="true" />
-            <element signature="e#118734#118739#0" expanded="true" />
-            <element signature="e#187954#187960#0" expanded="true" />
-            <element signature="e#187996#188002#0" expanded="true" />
-            <element signature="e#239208#239213#0" expanded="true" />
-            <element signature="e#265033#265038#0" expanded="true" />
-            <element signature="e#348859#348864#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/win7 快捷键.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="15" column="21" lean-forward="false" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
-          <folding />
+        <state relative-caret-position="120">
+          <caret line="5" column="15" lean-forward="false" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
         </state>
       </provider>
     </entry>
@@ -748,23 +602,27 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/maifest.appcache">
+    <entry file="file://$PROJECT_DIR$/win7 快捷键.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="15" column="21" lean-forward="false" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/调试技巧.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
-          <caret line="5" column="15" lean-forward="false" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
-          <folding />
+          <caret line="5" column="53" lean-forward="true" selection-start-line="5" selection-start-column="53" selection-end-line="5" selection-end-column="53" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/event.js">
+    <entry file="file://$PROJECT_DIR$/缓存的笔记.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="960">
-          <caret line="40" column="41" lean-forward="false" selection-start-line="40" selection-start-column="41" selection-end-line="40" selection-end-column="41" />
-          <folding />
+        <state relative-caret-position="24">
+          <caret line="17" column="24" lean-forward="false" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
         </state>
       </provider>
     </entry>
@@ -773,31 +631,35 @@
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/event.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="19" column="8" lean-forward="true" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/JSON AJAX.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#48#0" expanded="false" />
-          </folding>
+        <state relative-caret-position="24">
+          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/缓存的笔记.js">
+    <entry file="file://$PROJECT_DIR$/收藏夹.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="744">
-          <caret line="33" column="0" lean-forward="true" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#48#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/调试技巧.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="5" column="53" lean-forward="true" selection-start-line="5" selection-start-column="53" selection-end-line="5" selection-end-column="53" />
+        <state relative-caret-position="96">
+          <caret line="154" column="19" lean-forward="true" selection-start-line="154" selection-start-column="19" selection-end-line="154" selection-end-column="19" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/this 与 srcElement 区别.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#48#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
