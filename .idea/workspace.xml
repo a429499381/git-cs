@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ce69736a-477e-49c2-ad8e-0bbf9f034380" name="Default" comment="&#10;   this  与 srcElement 区别">
+    <list default="true" id="ce69736a-477e-49c2-ad8e-0bbf9f034380" name="Default" comment="&#10;   跟随标准与Webkit源码探究DOM -- 获取元素之getElementById">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/this 与 srcElement 区别.js" afterPath="$PROJECT_DIR$/this 与 srcElement 区别.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/收藏夹.html" afterPath="$PROJECT_DIR$/收藏夹.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -24,11 +25,21 @@
       <file leaf-file-name="this 与 srcElement 区别.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/this 与 srcElement 区别.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="96">
-              <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+            <state relative-caret-position="480">
+              <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
               <folding>
                 <element signature="e#0#48#0" expanded="false" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="收藏夹.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/收藏夹.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="96">
+              <caret line="154" column="19" lean-forward="true" selection-start-line="154" selection-start-column="19" selection-end-line="154" selection-end-column="19" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -65,12 +76,12 @@
       <list>
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/11.js" />
-        <option value="$PROJECT_DIR$/收藏夹.html" />
         <option value="$USER_HOME$/AppData/Local/Temp/步骤阅读.url" />
         <option value="$PROJECT_DIR$/win7 快捷键.html" />
         <option value="$PROJECT_DIR$/缓存的笔记.js" />
         <option value="$PROJECT_DIR$/JSON AJAX.js" />
         <option value="$PROJECT_DIR$/调试技巧.html" />
+        <option value="$PROJECT_DIR$/收藏夹.html" />
         <option value="$PROJECT_DIR$/this 与 srcElement 区别.js" />
       </list>
     </option>
@@ -82,10 +93,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+    <option name="x" value="183" />
+    <option name="y" value="198" />
+    <option name="width" value="1932" />
+    <option name="height" value="1053" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="添加" />
@@ -254,7 +265,8 @@
       <workItem from="1488700383222" duration="418000" />
       <workItem from="1488711053769" duration="581000" />
       <workItem from="1488765132770" duration="60000" />
-      <workItem from="1488768931178" duration="54000" />
+      <workItem from="1488768931178" duration="111000" />
+      <workItem from="1488785592806" duration="451000" />
     </task>
     <task id="LOCAL-00001" summary="删除">
       <created>1487882104998</created>
@@ -319,17 +331,24 @@
       <option name="project" value="LOCAL" />
       <updated>1488711148504</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="&#10;   跟随标准与Webkit源码探究DOM -- 获取元素之getElementById">
+      <created>1488768994201</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1488768994201</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23114000" />
+    <option name="totallyTimeSpent" value="23622000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="183" y="198" width="1932" height="1053" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23398623" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23345685" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3256617" sideWeight="0.5188571" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3276644" sideWeight="0.48899928" order="7" side_tool="false" content_ui="tabs" />
@@ -383,7 +402,8 @@
     <MESSAGE value="&#10; 更新了 JSON 用法" />
     <MESSAGE value="&#10; 更新了 ajax 响应请求" />
     <MESSAGE value="&#10;   this  与 srcElement 区别" />
-    <option name="LAST_COMMIT_MESSAGE" value="&#10;   this  与 srcElement 区别" />
+    <MESSAGE value="&#10;   跟随标准与Webkit源码探究DOM -- 获取元素之getElementById" />
+    <option name="LAST_COMMIT_MESSAGE" value="&#10;   跟随标准与Webkit源码探究DOM -- 获取元素之getElementById" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -618,13 +638,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/收藏夹.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24">
-          <caret line="151" column="41" lean-forward="false" selection-start-line="151" selection-start-column="41" selection-end-line="151" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/JSON AJAX.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="24">
@@ -632,10 +645,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/this 与 srcElement 区别.js">
+    <entry file="file://$PROJECT_DIR$/收藏夹.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="96">
-          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <caret line="154" column="19" lean-forward="true" selection-start-line="154" selection-start-column="19" selection-end-line="154" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/this 与 srcElement 区别.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
           <folding>
             <element signature="e#0#48#0" expanded="false" />
           </folding>
