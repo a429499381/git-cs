@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ce69736a-477e-49c2-ad8e-0bbf9f034380" name="Default" comment="&#10;   跟随标准与Webkit源码探究DOM -- 获取元素之getElementById">
+    <list default="true" id="ce69736a-477e-49c2-ad8e-0bbf9f034380" name="Default" comment="&#10;   javascript 阮一峰 特别好的">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Green.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/安装 JS调试工具.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/this 与 srcElement 区别.js" afterPath="$PROJECT_DIR$/this 与 srcElement 区别.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/收藏夹.html" afterPath="$PROJECT_DIR$/收藏夹.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/缓存的笔记.js" afterPath="$PROJECT_DIR$/缓存的笔记.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -22,23 +23,21 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="this 与 srcElement 区别.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/this 与 srcElement 区别.js">
+      <file leaf-file-name="收藏夹.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/收藏夹.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#48#0" expanded="false" />
-              </folding>
+            <state relative-caret-position="2845">
+              <caret line="364" column="1105" lean-forward="false" selection-start-line="364" selection-start-column="1104" selection-end-line="364" selection-end-column="1105" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="收藏夹.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/收藏夹.html">
+      <file leaf-file-name="安装 JS调试工具.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/安装 JS调试工具.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="96">
-              <caret line="154" column="19" lean-forward="true" selection-start-line="154" selection-start-column="19" selection-end-line="154" selection-end-column="19" />
+            <state relative-caret-position="240">
+              <caret line="10" column="22" lean-forward="false" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -49,14 +48,15 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
       <find>向服务器</find>
+      <find>蓝</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -78,11 +78,12 @@
         <option value="$PROJECT_DIR$/11.js" />
         <option value="$USER_HOME$/AppData/Local/Temp/步骤阅读.url" />
         <option value="$PROJECT_DIR$/win7 快捷键.html" />
-        <option value="$PROJECT_DIR$/缓存的笔记.js" />
         <option value="$PROJECT_DIR$/JSON AJAX.js" />
         <option value="$PROJECT_DIR$/调试技巧.html" />
         <option value="$PROJECT_DIR$/收藏夹.html" />
         <option value="$PROJECT_DIR$/this 与 srcElement 区别.js" />
+        <option value="$PROJECT_DIR$/缓存的笔记.js" />
+        <option value="$PROJECT_DIR$/安装 JS调试工具.html" />
       </list>
     </option>
   </component>
@@ -93,10 +94,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="183" />
-    <option name="y" value="198" />
-    <option name="width" value="1932" />
-    <option name="height" value="1053" />
+    <option name="x" value="639" />
+    <option name="y" value="206" />
+    <option name="width" value="1280" />
+    <option name="height" value="1034" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="添加" />
@@ -130,32 +131,7 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope">
-        <subPane subId="Changed Files">
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="git-cs">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-        <subPane subId="Default">
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="git-cs">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
+      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -166,9 +142,11 @@
     <property name="js.eslint.eslintPackage" value="" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\WebstormProjects\imooc\git-cs" />
       <recent name="C:\Users\Administrator\WebstormProjects\git-cs" />
     </key>
   </component>
@@ -266,7 +244,14 @@
       <workItem from="1488711053769" duration="581000" />
       <workItem from="1488765132770" duration="60000" />
       <workItem from="1488768931178" duration="111000" />
-      <workItem from="1488785592806" duration="451000" />
+      <workItem from="1488785592806" duration="1667000" />
+      <workItem from="1488846212780" duration="1973000" />
+      <workItem from="1488862841981" duration="7000" />
+      <workItem from="1488872992616" duration="14000" />
+      <workItem from="1488874987956" duration="8000" />
+      <workItem from="1488946763080" duration="20000" />
+      <workItem from="1489025625706" duration="1309000" />
+      <workItem from="1489028031484" duration="276000" />
     </task>
     <task id="LOCAL-00001" summary="删除">
       <created>1487882104998</created>
@@ -338,17 +323,24 @@
       <option name="project" value="LOCAL" />
       <updated>1488768994201</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="&#10;   javascript 阮一峰 特别好的">
+      <created>1488786055067</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1488786055067</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23622000" />
+    <option name="totallyTimeSpent" value="28445000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="183" y="198" width="1932" height="1053" extended-state="0" />
+    <frame x="639" y="206" width="1280" height="1034" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23345685" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23276561" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3256617" sideWeight="0.5188571" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3276644" sideWeight="0.48899928" order="7" side_tool="false" content_ui="tabs" />
@@ -403,27 +395,14 @@
     <MESSAGE value="&#10; 更新了 ajax 响应请求" />
     <MESSAGE value="&#10;   this  与 srcElement 区别" />
     <MESSAGE value="&#10;   跟随标准与Webkit源码探究DOM -- 获取元素之getElementById" />
-    <option name="LAST_COMMIT_MESSAGE" value="&#10;   跟随标准与Webkit源码探究DOM -- 获取元素之getElementById" />
+    <MESSAGE value="&#10;   javascript 阮一峰 特别好的" />
+    <option name="LAST_COMMIT_MESSAGE" value="&#10;   javascript 阮一峰 特别好的" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/win7 快捷键.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="15" column="21" lean-forward="false" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webstrom 模版转换配置参数">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/JSON AJAX.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -598,20 +577,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/webstrom 模版转换配置参数">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/win7 快捷键.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="15" column="21" lean-forward="false" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/调试技巧.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -619,16 +584,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/缓存的笔记.js">
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa0.302/devtools.js" />
+    <entry file="file://$PROJECT_DIR$/win7 快捷键.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24">
-          <caret line="17" column="24" lean-forward="false" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+        <state relative-caret-position="360">
+          <caret line="15" column="25" lean-forward="true" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/indexDB方法.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
+    <entry file="file://$PROJECT_DIR$/webstrom 模版转换配置参数">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/this 与 srcElement 区别.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="18" column="21" lean-forward="false" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="72" />
+          <folding>
+            <element signature="e#0#48#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/缓存的笔记.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="806">
+          <caret line="36" column="0" lean-forward="true" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/event.js">
@@ -638,28 +624,32 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/indexDB方法.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/JSON AJAX.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24">
-          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        <state relative-caret-position="432">
+          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/收藏夹.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="154" column="19" lean-forward="true" selection-start-line="154" selection-start-column="19" selection-end-line="154" selection-end-column="19" />
+        <state relative-caret-position="2845">
+          <caret line="364" column="1105" lean-forward="false" selection-start-line="364" selection-start-column="1104" selection-end-line="364" selection-end-column="1105" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/this 与 srcElement 区别.js">
+    <entry file="file://$PROJECT_DIR$/安装 JS调试工具.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#48#0" expanded="false" />
-          </folding>
+        <state relative-caret-position="240">
+          <caret line="10" column="22" lean-forward="false" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+          <folding />
         </state>
       </provider>
     </entry>
