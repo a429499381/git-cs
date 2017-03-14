@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ce69736a-477e-49c2-ad8e-0bbf9f034380" name="Default" comment="&#10;   跟随标准与Webkit源码探究DOM -- 获取元素之getElementById">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/非常好的JS教程 比W3C好.html" />
+    <list default="true" id="ce69736a-477e-49c2-ad8e-0bbf9f034380" name="Default" comment="&#10;   找到一个 非常好 JS教程网站">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -46,8 +45,8 @@
       <file leaf-file-name="非常好的JS教程 比W3C好.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/非常好的JS教程 比W3C好.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="8" column="43" lean-forward="false" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
+            <state relative-caret-position="120">
+              <caret line="5" column="7" lean-forward="true" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -290,7 +289,7 @@
       <workItem from="1488803142218" duration="706000" />
       <workItem from="1488978122340" duration="603000" />
       <workItem from="1489065749913" duration="97000" />
-      <workItem from="1489503840641" duration="66000" />
+      <workItem from="1489503840641" duration="125000" />
     </task>
     <task id="LOCAL-00001" summary="删除">
       <created>1487882104998</created>
@@ -362,11 +361,18 @@
       <option name="project" value="LOCAL" />
       <updated>1488768994201</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="&#10;   找到一个 非常好 JS教程网站">
+      <created>1489503941461</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1489503941461</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25094000" />
+    <option name="totallyTimeSpent" value="25153000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -427,7 +433,8 @@
     <MESSAGE value="&#10; 更新了 ajax 响应请求" />
     <MESSAGE value="&#10;   this  与 srcElement 区别" />
     <MESSAGE value="&#10;   跟随标准与Webkit源码探究DOM -- 获取元素之getElementById" />
-    <option name="LAST_COMMIT_MESSAGE" value="&#10;   跟随标准与Webkit源码探究DOM -- 获取元素之getElementById" />
+    <MESSAGE value="&#10;   找到一个 非常好 JS教程网站" />
+    <option name="LAST_COMMIT_MESSAGE" value="&#10;   找到一个 非常好 JS教程网站" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -683,8 +690,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/非常好的JS教程 比W3C好.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="8" column="43" lean-forward="false" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
+        <state relative-caret-position="120">
+          <caret line="5" column="7" lean-forward="true" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
           <folding />
         </state>
       </provider>
