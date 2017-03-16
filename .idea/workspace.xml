@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ce69736a-477e-49c2-ad8e-0bbf9f034380" name="Default" comment="&#10;   找到一个 非常好 JS教程网站">
+    <list default="true" id="ce69736a-477e-49c2-ad8e-0bbf9f034380" name="Default" comment="&#10;    提交，之前有的没有提交成功">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -250,7 +250,7 @@
       <workItem from="1489558007212" duration="208000" />
       <workItem from="1489567949734" duration="11000" />
       <workItem from="1489574884500" duration="29000" />
-      <workItem from="1489629642112" duration="102000" />
+      <workItem from="1489629642112" duration="144000" />
     </task>
     <task id="LOCAL-00001" summary="删除">
       <created>1487882104998</created>
@@ -329,11 +329,18 @@
       <option name="project" value="LOCAL" />
       <updated>1489503941461</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="&#10;    提交，之前有的没有提交成功">
+      <created>1489629771709</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1489629771709</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25503000" />
+    <option name="totallyTimeSpent" value="25545000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
@@ -395,7 +402,8 @@
     <MESSAGE value="&#10;   this  与 srcElement 区别" />
     <MESSAGE value="&#10;   跟随标准与Webkit源码探究DOM -- 获取元素之getElementById" />
     <MESSAGE value="&#10;   找到一个 非常好 JS教程网站" />
-    <option name="LAST_COMMIT_MESSAGE" value="&#10;   找到一个 非常好 JS教程网站" />
+    <MESSAGE value="&#10;    提交，之前有的没有提交成功" />
+    <option name="LAST_COMMIT_MESSAGE" value="&#10;    提交，之前有的没有提交成功" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
