@@ -32,6 +32,8 @@ document.body.scrollWidth
   有滚动条    实际内容宽度 + padding*2
 
 
+getBoundingClientRect()  获取元素 全部坐标
+
 clientX 相对与浏览器的坐标
 screenX 设备与浏览器坐标
 offsetX 事件源与事件左上角坐标
