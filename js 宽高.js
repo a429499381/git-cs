@@ -41,6 +41,14 @@ pageX   整个网页左上角的坐标
 X
 
 
+jquery 宽高
+
+$(window).height()  可视区域高度
+
+$(document).height()  元素内容+ padding 高度
+
+$(window).scroll().top  滚动 高度
+
 
 
 
