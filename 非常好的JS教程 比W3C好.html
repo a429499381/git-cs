@@ -10,3 +10,18 @@
 <a href="http://javascript.ruanyifeng.com/stdlib/object.html"></a>
 </body>
 </html>
+
+1  类型
+
+Number String Boolean Object Function  Symbol
+
+2 类型 转换
+
+parseInt("10.2abc")  // 10  只转换能转换 整数 的值  后面放弃
+
++"10.2abc" // NaN    字符 任意一个无法转换  返回 NaN 任何与之 数学人算都是NaN
+
+isNaN() 检测是否 为 NaN
+
+false、0、空字符串("")、NaN、null 和 undefined 被转换为 false
+所有其他值被转换为 true
