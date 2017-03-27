@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ce69736a-477e-49c2-ad8e-0bbf9f034380" name="Default" comment="&#10;     笔记 关于  数据类型  检测">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ES6.html" />
+    <list default="true" id="ce69736a-477e-49c2-ad8e-0bbf9f034380" name="Default" comment="&#10;   更新了 Jquery  宽高 详解">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Vue 笔记.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -20,43 +20,15 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="非常好的JS教程 比W3C好.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/非常好的JS教程 比W3C好.html">
+    <leaf>
+      <file leaf-file-name="Vue 笔记.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Vue 笔记.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="5" column="7" lean-forward="true" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ES6.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ES6.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="this 与 srcElement 区别.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/this 与 srcElement 区别.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="346">
-              <caret line="42" column="21" lean-forward="true" selection-start-line="42" selection-start-column="21" selection-end-line="42" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="安装 JS调试工具.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/安装 JS调试工具.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="336">
+              <caret line="16" column="30" lean-forward="true" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
+              <folding>
+                <element signature="e#0#49#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -66,8 +38,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -103,7 +75,7 @@
         <option value="$PROJECT_DIR$/JS 宽高.html" />
         <option value="$PROJECT_DIR$/js 宽高.js" />
         <option value="$PROJECT_DIR$/非常好的JS教程 比W3C好.html" />
-        <option value="$PROJECT_DIR$/ES6.html" />
+        <option value="$PROJECT_DIR$/Vue 笔记.js" />
       </list>
     </option>
   </component>
@@ -114,10 +86,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+    <option name="x" value="-21" />
+    <option name="y" value="-13" />
+    <option name="width" value="1092" />
+    <option name="height" value="1040" />
   </component>
   <component name="ProjectLevelVcsManager">
     <OptionsSetting value="false" id="更新" />
@@ -138,7 +110,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -179,6 +150,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -301,8 +273,8 @@
       <workItem from="1489759253977" duration="35000" />
       <workItem from="1489845708492" duration="236000" />
       <workItem from="1489845971908" duration="5998000" />
-      <workItem from="1490011917360" duration="2664000" />
-      <workItem from="1490627967647" duration="749000" />
+      <workItem from="1490011917360" duration="2587000" />
+      <workItem from="1490235327928" duration="3265000" />
     </task>
     <task id="LOCAL-00001" summary="删除">
       <created>1487882104998</created>
@@ -416,40 +388,33 @@
       <option name="project" value="LOCAL" />
       <updated>1490012129221</updated>
     </task>
-    <task id="LOCAL-00017" summary="&#10;     笔记 关于  数据类型  检测">
-      <created>1490031020442</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1490031020442</updated>
-    </task>
-    <option name="localTasksCounter" value="18" />
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35766000" />
+    <option name="totallyTimeSpent" value="38385000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-21" y="-13" width="1092" height="1040" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36739016" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36746413" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3256617" sideWeight="0.5188571" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3322034" sideWeight="0.48899928" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3187572" sideWeight="0.48899928" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24982257" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6643991" sideWeight="0.48114285" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -493,8 +458,7 @@
     <MESSAGE value="&#10;    提交，之前有的没有提交成功" />
     <MESSAGE value="&#10;   再次复习了 JS 宽高" />
     <MESSAGE value="&#10;   再次" />
-    <MESSAGE value="&#10;     笔记 关于  数据类型  检测" />
-    <option name="LAST_COMMIT_MESSAGE" value="&#10;     笔记 关于  数据类型  检测" />
+    <option name="LAST_COMMIT_MESSAGE" value="&#10;   再次" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -670,6 +634,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/安装 JS调试工具.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/VPN">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
@@ -698,6 +669,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/this 与 srcElement 区别.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="18" column="21" lean-forward="false" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/缓存的笔记.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="648">
@@ -712,35 +690,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/this 与 srcElement 区别.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="346">
-          <caret line="42" column="21" lean-forward="true" selection-start-line="42" selection-start-column="21" selection-end-line="42" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/安装 JS调试工具.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ES6.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/非常好的JS教程 比W3C好.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="5" column="7" lean-forward="true" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
-          <folding />
+        <state relative-caret-position="336">
+          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Vue 笔记.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="16" column="30" lean-forward="true" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#49#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
